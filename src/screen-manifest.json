@@ -1,0 +1,29 @@
+{
+  "screen_count": 24,
+  "screens": [
+    "Splash",
+    "Onboarding",
+    "Sign Up",
+    "Login",
+    "Home",
+    "Workout",
+    "Exercise Details",
+    "AI Coach",
+    "Nutrition",
+    "Progress",
+    "Plans",
+    "Challenges",
+    "Community",
+    "Trainers",
+    "Notifications",
+    "Achievements",
+    "Profile",
+    "Settings",
+    "Premium",
+    "Subscription Success",
+    "Messages",
+    "Leaderboard",
+    "Weekly Report",
+    "Help & Support"
+  ]
+}

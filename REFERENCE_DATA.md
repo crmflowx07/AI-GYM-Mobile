@@ -1,0 +1,13 @@
+# AI GYM reference data
+- Edward James — Premium Member
+- 234 Calories Burned
+- 72.5 kg
+- Push Day — Chest • Shoulders • Triceps
+- Bench Press — 4 sets • 12 reps — 60s
+- AI Coach — Online
+- Nutrition — 1,450 / 2,300 kcal
+- Protein 120g / 170g — Carbs 100g / 250g — Fats 60g / 70g
+- BMI 22.1 — Body Fat 14.5% — Muscle Mass 54.2 kg
+- 30 Day Fitness Challenge — 65%
+- Alex Carter — Sophia Lee — Ryan Miller
+- Premium Plan — $9.99 / month — Next billing: 12 Jun 2026
