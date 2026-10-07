@@ -1,13 +1,13 @@
 {
   "expo": {
     "name": "AI GYM",
-    "slug": "ai-gym-pro-v8",
-    "version": "8.0.0",
+    "slug": "ai-gym-pro-v9",
+    "version": "9.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "dark",
     "android": {
       "package": "com.aigym.fit",
-      "versionCode": 8
+      "versionCode": 9
     },
     "ios": {
       "bundleIdentifier": "com.aigym.fit"
