@@ -1,1 +1,19 @@
-{"expo":{"name":"AI GYM","slug":"ai-gym-pro-v6","version":"6.0.0","orientation":"portrait","userInterfaceStyle":"dark","android":{"package":"com.aigym.fit","versionCode":6},"ios":{"bundleIdentifier":"com.aigym.fit"},"web":{"bundler":"metro"}}}
+{
+  "expo": {
+    "name": "AI GYM",
+    "slug": "ai-gym-pro-v7",
+    "version": "7.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "com.aigym.fit",
+      "versionCode": 7
+    },
+    "ios": {
+      "bundleIdentifier": "com.aigym.fit"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
