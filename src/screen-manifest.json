@@ -1,5 +1,5 @@
 {
-  "screen_count": 24,
+  "screen_count": 32,
   "screens": [
     "Splash",
     "Onboarding",
@@ -23,7 +23,16 @@
     "Subscription Success",
     "Messages",
     "Leaderboard",
+    "Help & Support",
+    "Search",
     "Weekly Report",
-    "Help & Support"
-  ]
+    "Edit Profile",
+    "Workout Schedule",
+    "Goals",
+    "Meal Planner",
+    "Exercise Library",
+    "Trainer Profile",
+    "Connected Apps"
+  ],
+  "design_system": "dark navy + cyan/teal + purple neon reference style"
 }

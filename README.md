@@ -1,13 +1,15 @@
-# AI GYM Mobile
-Dark navy + cyan/purple AI fitness mobile app based on the supplied reference UI.
+# AI GYM Mobile V5
 
-## Run
-```bash
-npm install
-npx expo start
-```
+Expo React Native source for the dark navy / cyan / purple AI GYM reference UI.
 
-## Build APK on GitHub
-Open **Actions → Build Android APK → Run workflow**. The workflow produces an artifact named **AI-GYM-APK** containing `AI-GYM-PRO-V5.apk`.
+- Android package: `com.aigym.fit`
+- Splash, onboarding, signup, login
+- Home dashboard
+- Workout and exercise details
+- AI Coach
+- Nutrition
+- Progress
+- Plans, challenges, community, trainers
+- Notifications, achievements, profile, settings, premium
 
-Android package: `com.aigym.fit`.
+Images are loaded from remote fitness image URLs so the GitHub source remains lightweight and build-ready.
