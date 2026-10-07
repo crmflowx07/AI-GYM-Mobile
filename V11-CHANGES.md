@@ -1,8 +1,10 @@
 # AI GYM Mobile V11
 
-- Workout completion now creates persisted session logs
-- New Workout Complete summary screen
-- New Activity Log screen based on actual saved local sessions
+- Workout completion creates persisted session logs
+- Workout Complete summary screen
+- Activity Log backed by saved sessions
 - AI post-workout recovery note
-- Profile links to Activity Log
-- Existing V10 direct APK release workflow retained
+- Profile Activity Log shortcut
+- Android version 11.0.0 / versionCode 11
+- Build artifact AI-GYM-PRO-V11.apk
+- Direct release tag v11-latest
