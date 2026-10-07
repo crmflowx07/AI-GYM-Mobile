@@ -1,1 +1,1 @@
-{"expo":{"name":"AI GYM","slug":"ai-gym-neon-v2","version":"2.0.0","orientation":"portrait","userInterfaceStyle":"dark","android":{"package":"com.aigym.fit"}}}
+{"expo":{"name":"AI GYM","slug":"ai-gym-pro-v6","version":"6.0.0","orientation":"portrait","userInterfaceStyle":"dark","android":{"package":"com.aigym.fit","versionCode":6},"ios":{"bundleIdentifier":"com.aigym.fit"},"web":{"bundler":"metro"}}}
